@@ -1,0 +1,9 @@
+C:\Users\Luis Espindola\Desktop\IHC\tdd-Espindola110\Ordenamiento\bin\Debug\netstandard2.0\Ordenamiento.deps.json
+C:\Users\Luis Espindola\Desktop\IHC\tdd-Espindola110\Ordenamiento\bin\Debug\netstandard2.0\Ordenamiento.dll
+C:\Users\Luis Espindola\Desktop\IHC\tdd-Espindola110\Ordenamiento\bin\Debug\netstandard2.0\Ordenamiento.pdb
+C:\Users\Luis Espindola\Desktop\IHC\tdd-Espindola110\Ordenamiento\obj\Debug\netstandard2.0\Ordenamiento.csprojAssemblyReference.cache
+C:\Users\Luis Espindola\Desktop\IHC\tdd-Espindola110\Ordenamiento\obj\Debug\netstandard2.0\Ordenamiento.csproj.CoreCompileInputs.cache
+C:\Users\Luis Espindola\Desktop\IHC\tdd-Espindola110\Ordenamiento\obj\Debug\netstandard2.0\Ordenamiento.AssemblyInfoInputs.cache
+C:\Users\Luis Espindola\Desktop\IHC\tdd-Espindola110\Ordenamiento\obj\Debug\netstandard2.0\Ordenamiento.AssemblyInfo.cs
+C:\Users\Luis Espindola\Desktop\IHC\tdd-Espindola110\Ordenamiento\obj\Debug\netstandard2.0\Ordenamiento.dll
+C:\Users\Luis Espindola\Desktop\IHC\tdd-Espindola110\Ordenamiento\obj\Debug\netstandard2.0\Ordenamiento.pdb
